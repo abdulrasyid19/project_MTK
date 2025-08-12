@@ -1,0 +1,43 @@
+1.) sebuah nilai x diketahui bernilai 12.jika nilai tersebut dikuranngi 3,lalu hasilnya dikali 2,berapa hasil akhirnya?
+JAWAB:  12 - 3 x 2 =
+(12 - 3) =9
+9 x 2 =18 //
+
+2.) diketahui array berisi 6 elemen genap:[2,4,6,8,10,12].
+berapa jumlah seluruh elemen yang indeksnya genap?
+
+JAWAB: angka-angka array= 0 1 2 3 4 5 
+                          2 4 6 8 10 12 = 2 6 10 =18 //
+
+3.) Dengan kondisi dibawah ini,bagaimana jika seseorang mendapatkan nilai 78 dan 59? jelaskan logikanya!
+ Berikut kondisinya :
+ a. jika nilai >=90,91,92,93,94,95,96,97,98,99,100,maka kategori "A"
+ b. jika nilai >=75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,maka kategori "B"
+ c. jika nilai >=60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,maka kategori "C"
+ d. jika nilai < 60,=59,58,57,56,55,54,53,52,51,50, maka kategori "D"
+JAWAB: 78 = "B"
+       59 = "D" //
+
+4.) Seorang siswa diminta membuat algoritma sederhana untuk memeriksa apakah sebuah angka positif adalah ganjil atau genap.
+JAWAB: jika suatu angka dibagi 2 dan hasilnya 0 maka angka tersebut "GENAP" //
+       jika suatu angka dibagi 2 dan hasilnya bukan 0 maka angka tersebut "GANJIL" //
+
+5.) Diberikan kondisi:
+  a.jika angka habis dibagi 2 dan 3 --> cetak "A"
+  b.jika angka habis dibagi 2 --> cetak "B"
+  c.jika angka habis dibagi 3 --> cetak "C"
+  d.jika selain itu --> cetak "D"
+
+ Apa hasil cetakan jika dicek angka 6,8,9,7 secara berurutan?
+
+JAWAB= 6 dibagi 2 habis dan dibagi 3 juga habis maka kategori "A"
+       8 dibagi 2 habis dan kalo dibagi 3 tidak habis maka kategori "B"
+       9 dibagi 2 tidak habis dan kalo dibagi 3 habis maka kategori "C"
+       7 dibagi 2 tidak habis dan kalo dibagi 3 juga tidak habis maka kategori "D" //
+
+6.) Dalam sebuah array [4,4,5,4,6,5,4],berapa frekuensi angka paling sering muncul?
+JAWAB:  4 muncul 4 kali
+        5 muncul 2 kali 
+        6 muncul 1 kali  jawaban= 4 { 4 paling sering muncul ] //
+
+7.) sebuah program membaca imput usia.jika usia dibawah 17 tahun,
